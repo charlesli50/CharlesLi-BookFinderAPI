@@ -68,7 +68,7 @@ import retrofit2.http.Path
 //tested on pixel tablet on landscape mode
 
 private const val BASE_URL = "https://www.googleapis.com/books/v1/"
-private const val APIKEY = "AIzaSyBHOALAozk-oONr5va52fMTT2SgZNYn3Xg"
+private const val APIKEY = "oopsies-oONr5va52fMTT2SgZNYn3Xg"
 
 class MainActivity : ComponentActivity() {
     private val googleBooksApi by lazy {
